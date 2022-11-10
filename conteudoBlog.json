@@ -2,19 +2,19 @@
   {
     "id": "1",
     "nome": "Ana",
-    "foto": "https://raw.githubusercontent.com/lima-rafael/fotos/main/photo-001.png",
+    "foto": "./photo-001.png",
     "descricao": "Medica atenciosa de Cachorros"
   },
   {
     "id": "2",
     "nome": "Eduarda",
-    "foto": "https://images.pexels.com/photos/5487070/pexels-photo-5487070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,",
+    "foto": "./photo-002.png",
     "descricao": "Medica atenciosa de Gatos"
   },
   {
     "id": "3",
     "nome": "Benjamin",
-    "foto": "../images/photo/photo-003.png",
+    "foto": "./photo-003.png",
     "descricao": "Medico atencioso dos animais"
   }
 ]
